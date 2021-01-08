@@ -1,5 +1,4 @@
-// Leonardo Monteiro Mastra Fontoura 1721201 3WA 
-// Ian Geraldi Cordeiro 1620699 3WA 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "cria_func.h"
